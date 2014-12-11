@@ -21,7 +21,7 @@ Jacob
 
 Jukub
 -----
-* http://planet-search.debian.org/cgi-bin/search.cgi?terms=%22Jukub+Wilk%22&submit=Go
+* http://planet-search.debian.org/cgi-bin/search.cgi?terms=%22Jukub+Wilk%22
 
 .. http://www.perrier.eu.org/weblog/2011/05/08#2011-18
 
