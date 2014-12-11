@@ -35,6 +35,10 @@ Jakup
 * https://lists.debian.org/201304212248.41259.robotux@debian.org
 * https://github.com/kohler/t1utils/commit/1b3373527dd2
 
+Januk
+-----
+* private mail on 2014-12-11
+
 Wiik
 ----
 * https://lists.debian.org/4E490798.5020808@gmail.com
