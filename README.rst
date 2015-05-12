@@ -10,6 +10,7 @@ Jakob
 * http://sourceforge.net/p/gamera/code/1175
 * http://www.securityfocus.com/bid/37316/info
 * https://lists.debian.org/20141203152222.GA5521@anan7.coredump.us
+* https://bitbucket.org/jwilk/pdf2djvu/issue/104
 
 Jacob
 -----
