@@ -40,6 +40,10 @@ Januk
 -----
 * private mail on 2014-12-11
 
+Jan
+---
+* https://github.com/jnv/asciibooth/blob/fc148511b026/README.md#projects-used
+
 Wiik
 ----
 * https://lists.debian.org/4E490798.5020808@gmail.com
