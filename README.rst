@@ -42,7 +42,7 @@ Januk
 
 Jan
 ---
-* https://github.com/jnv/asciibooth/blob/fc148511b026/README.md#projects-used
+* https://github.com/jnv/asciibooth/commit/63d5be554930
 
 Wiik
 ----
