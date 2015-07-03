@@ -35,6 +35,7 @@ Jakup
 * http://mraw.org/blog/2012/02/22/Wrench_days/
 * https://lists.debian.org/201304212248.41259.robotux@debian.org
 * https://github.com/kohler/t1utils/commit/1b3373527dd2
+* https://bugs.debian.org/790851#33
 
 Januk
 -----
