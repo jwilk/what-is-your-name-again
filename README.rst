@@ -12,6 +12,10 @@ Jakob
 * https://lists.debian.org/20141203152222.GA5521@anan7.coredump.us
 * https://bitbucket.org/jwilk/pdf2djvu/issue/104
 
+Jake
+----
+* private mail on 2009-12-20
+
 Jacob
 -----
 * https://packages.qa.debian.org/d/djvulibre/news/20110302T091721Z.html
