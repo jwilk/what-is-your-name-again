@@ -49,6 +49,10 @@ Jan
 ---
 * https://github.com/jnv/asciibooth/commit/63d5be554930
 
+Jackup
+------
+* https://anonscm.debian.org/viewvc/webwml/webwml/english/vote/2015/vote_003.wml?revision=1.1&view=markup#l65
+
 Wiik
 ----
 * https://lists.debian.org/4E490798.5020808@gmail.com
