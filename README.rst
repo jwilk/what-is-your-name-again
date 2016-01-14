@@ -42,6 +42,7 @@ Jakup
 * https://github.com/wking/rss2email/commit/ec438df7ecf0
 * https://github.com/kohler/t1utils/commit/1b3373527dd2
 * https://bugs.debian.org/790851#33
+* private mail on 2016-01-02
 
 Januk
 -----
