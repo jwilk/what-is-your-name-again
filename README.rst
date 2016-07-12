@@ -60,4 +60,8 @@ Wiik
 ----
 * https://lists.debian.org/4E490798.5020808@gmail.com
 
+jkwilk
+------
+* https://github.com/venthur/python-debianbts/commit/3ffe08f058c1
+
 .. vim:ts=3 sts=3 sw=3 et
