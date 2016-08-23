@@ -28,6 +28,7 @@ Jacob
 Jukub
 -----
 * http://planet-search.debian.org/cgi-bin/search.cgi?terms=%22Jukub+Wilk%22
+* https://github.com/KeepSafe/aiohttp/commit/b4371a4d117c
 
 .. http://www.perrier.eu.org/weblog/2011/05/08#2011-18
 
