@@ -7,7 +7,7 @@ This document collects occurrences of such misspellings.
 
 Jakob
 -----
-* http://sourceforge.net/p/gamera/code/1175
+* https://github.com/hsnr-gamera/gamera/commit/d40609f322d7db87
 * http://www.securityfocus.com/bid/37316/info
 * https://lists.debian.org/20141203152222.GA5521@anan7.coredump.us
 * https://github.com/jwilk/pdf2djvu/issues/104#issue-193646532
